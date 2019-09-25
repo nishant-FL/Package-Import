@@ -1,0 +1,15 @@
+# for data processing
+import pandas as pd 
+import numpy as np 
+
+# for viz 
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set(context='talk',style='white',palette='rainbow')
+
+#for data location
+import os as os
+os.listdir()
+
+# for text preprocessing
+import spacy
